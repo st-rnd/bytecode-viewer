@@ -7,3 +7,7 @@
 .project
 .DS_Store
 *.iml
+/out/
+/target/
+
+dependency-reduced-pom.xml
